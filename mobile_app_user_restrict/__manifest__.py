@@ -1,7 +1,7 @@
 {
     'name': "Odoo Mobile APP User Restrictions Login",
-    'summary': """Mobile APP User Restrictions""",
-    'description': """ Mobile APP User Restrictions """,
+    'summary': """Odoo Mobile APP User Restrictions Login""",
+    'description': """ Odoo Mobile APP User Restrictions Login """,
     'depends': ['base','web'],
     'version': '16.0.0.0',
     'author': 'Nikhil Nakrani (Living Legend), Odoo Community Association (OCA)',
