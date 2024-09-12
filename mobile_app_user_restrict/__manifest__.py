@@ -1,5 +1,5 @@
 {
-    'name': "Mobile APP User Restrictions",
+    'name': "Odoo Mobile APP User Restrictions Login",
     'summary': """Mobile APP User Restrictions""",
     'description': """ Mobile APP User Restrictions """,
     'depends': ['base','web'],
