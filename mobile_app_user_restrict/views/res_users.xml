@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="view_users_form_inherit_mobile_restriction" model="ir.ui.view">
+        <field name="name">res.users.form.mobile.restriction</field>
+        <field name="model">res.users</field>
+        <field name="inherit_id" ref="base.view_users_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//group[@name='preferences']" position="inside">
+                <field name="restrict_mobile_login"/>
+            </xpath>
+        </field>
+    </record>
+</odoo>
