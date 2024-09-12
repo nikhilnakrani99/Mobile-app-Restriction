@@ -4,6 +4,7 @@
     'description': """ Mobile APP User Restrictions """,
     'depends': ['base','web'],
     'version': '16.0.0.0',
+    'author': 'Nikhil Nakrani (Living Legend)',
     'data': [
         'views/res_users.xml',
     ],
