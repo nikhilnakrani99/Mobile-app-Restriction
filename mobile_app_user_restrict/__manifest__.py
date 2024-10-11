@@ -4,7 +4,7 @@
     'description': """ Odoo Mobile APP User Restrictions Login """,
     'depends': ['base','web'],
     'version': '18.0.0.0',
-    'author': 'Nikhil Nakrani (Living Legend),
+    'author': 'Nikhil Nakrani (Living Legend)',
     'data': [
         'views/res_users.xml',
     ],
