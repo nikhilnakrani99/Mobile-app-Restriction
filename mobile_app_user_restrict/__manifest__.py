@@ -8,7 +8,7 @@
     'data': [
         'views/res_users.xml',
     ],
-    'images': ['static/description/v18.gif'],
+    'images': ['static/description/banner.gif'],
     'license': 'LGPL-3',
     'installable': True,
     'auto_install': False,
